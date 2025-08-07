@@ -1,0 +1,5 @@
+.env/
+genv/
+env/
+*.pyc
+__pycache__/
