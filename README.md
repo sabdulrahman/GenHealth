@@ -10,7 +10,7 @@
 
 ## Overview
 
-GenHealth is a state-of-the-art multimodal AI system that combines **text processing**, **medical imaging analysis**, and **structured data integration** to boost diagnostic extraction accuracy from medical reports. Built with the latest advances in deep learning and clinical AI.
+GenHealth is a multimodal AI system that combines **text processing**, **medical imaging analysis**, and **structured data integration** to boost diagnostic extraction accuracy from medical reports. Built with the latest advances in deep learning and clinical AI.
 
 ### Key Features
 
@@ -63,7 +63,7 @@ GenHealth is a state-of-the-art multimodal AI system that combines **text proces
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/GenHealth.git
+git clone https://github.com/sabdulrahman/GenHealth.git
 cd GenHealth
 ```
 
@@ -287,4 +287,4 @@ spec:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
